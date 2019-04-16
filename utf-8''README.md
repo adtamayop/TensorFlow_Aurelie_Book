@@ -118,4 +118,4 @@
 
 
 
-## Deep Neural Networks
+## Course summary

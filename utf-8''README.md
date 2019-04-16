@@ -1,0 +1,47 @@
+## Notas claves del Libro Hands-On Machine Learning with Scikit-Learn & TensorFlow
+
+
+* [Course summary](#course-summary)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Deep Neural Networks
